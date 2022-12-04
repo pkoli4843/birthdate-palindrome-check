@@ -2,15 +2,15 @@
   "files": {
     "main.css": "/birthdate-palindrome-check/static/css/main.fe140ece.chunk.css",
     "main.js": "/birthdate-palindrome-check/static/js/main.794f2355.chunk.js",
-    "runtime-main.js": "/birthdate-palindrome-check/static/js/runtime-main.4b4d8f97.js",
-    "static/js/2.5e706c5e.chunk.js": "/birthdate-palindrome-check/static/js/2.5e706c5e.chunk.js",
-    "static/js/3.92657e1d.chunk.js": "/birthdate-palindrome-check/static/js/3.92657e1d.chunk.js",
+    "runtime-main.js": "/birthdate-palindrome-check/static/js/runtime-main.537f7ea5.js",
+    "static/js/2.5aca3506.chunk.js": "/birthdate-palindrome-check/static/js/2.5aca3506.chunk.js",
+    "static/js/3.8a04e402.chunk.js": "/birthdate-palindrome-check/static/js/3.8a04e402.chunk.js",
     "index.html": "/birthdate-palindrome-check/index.html",
-    "static/js/2.5e706c5e.chunk.js.LICENSE.txt": "/birthdate-palindrome-check/static/js/2.5e706c5e.chunk.js.LICENSE.txt"
+    "static/js/2.5aca3506.chunk.js.LICENSE.txt": "/birthdate-palindrome-check/static/js/2.5aca3506.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b4d8f97.js",
-    "static/js/2.5e706c5e.chunk.js",
+    "static/js/runtime-main.537f7ea5.js",
+    "static/js/2.5aca3506.chunk.js",
     "static/css/main.fe140ece.chunk.css",
     "static/js/main.794f2355.chunk.js"
   ]
